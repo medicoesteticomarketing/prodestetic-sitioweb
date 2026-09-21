@@ -4,8 +4,8 @@
     {
       "name": "prodestetic-static",
       "runtimeExecutable": "npx",
-      "runtimeArgs": ["-y", "http-server", "-p", "8791"],
-      "port": 8791
+      "runtimeArgs": ["-y", "http-server", "-p", "8792"],
+      "port": 8792
     }
   ]
 }
