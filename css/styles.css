@@ -12,10 +12,7 @@ body {
   justify-content: center;
 }
 
-h1 {
-  font-family: 'Playfair Display', serif;
-  font-weight: 600;
-  color: #111;
-  font-size: clamp(3rem, 10vw, 7rem);
-  text-align: center;
+.logo {
+  width: min(80vw, 480px);
+  height: auto;
 }
